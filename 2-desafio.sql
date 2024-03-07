@@ -1,0 +1,4 @@
+SELECT 
+	*
+FROM Filmes
+ORDER BY Ano
